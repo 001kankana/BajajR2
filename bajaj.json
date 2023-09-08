@@ -1,0 +1,8 @@
+{
+    "user_id": "12345",
+    "college_email_id": "example@example.com",
+    "college_roll_number": "C123456",
+    "numbers": [1, 2, 3, 4, 5],
+    "alphabets": ["a", "b", "c", "d", "e"]
+  }
+  
